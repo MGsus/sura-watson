@@ -1,0 +1,10 @@
+{
+  "vr_version": "2019-02-11",
+  "vr_api_key": "qBHBFts-781xp_Y10sgkZ3kCwJETGndAUFqgpDPaYMIs",
+  "vr_model_id": "Daños_70946990",
+  "vr_url": "https://api.us-south.visual-recognition.watson.cloud.ibm.com/instances/a2931b12-4e5c-4473-95ba-71c6bb4a8c5e",
+  "nl_version": "2019-07-12",
+  "nl_api_key": "UOa6K1bYxHOa_Vt9IleULi9nSI0SYlyEtazxNp1KkMxp",
+  "nl_url": "https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/e80deec2-d170-43f9-bec1-a72d8a8f6c42",
+  "nl_model_id": "c72617e2-eab9-40b0-bc37-dbb35ef91d2b"
+}
